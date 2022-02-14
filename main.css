@@ -1,0 +1,32 @@
+body{
+    background-color: #E9ECEF !important;
+}
+#urunhead{
+    color:darkviolet;
+}
+.card-text{
+    color:rgb(164, 10, 230);
+}
+.fıyat{
+    color:black;
+    font-weight: 600;
+}
+
+.no-underline{
+    text-decoration: none;
+}
+.text-ındent{
+    text-indent: 20px;
+    line-height: 30px;
+    font-size: 22px !important;
+    font-weight: 400 !important;
+}
+.margin-bottom{
+    margin-bottom: 2%;
+}
+.jumbotron{
+    margin-left: auto;
+    margin-right: auto;
+    width: 90% !important;
+    
+}
